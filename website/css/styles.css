@@ -1,0 +1,76 @@
+body{
+    background: url("../images/pexels-kaique-rocha-125510.jpg") no-repeat center center fixed;    
+    background-size: cover;
+         
+   }
+   
+   #app{
+    width:60%;    
+    background:	#559e83;
+    text-align: center;    
+    margin: 0 auto;
+    border: 4px solid #ae5a41;
+    border-radius: 25px;    
+    padding: 20px;
+    opacity: 0.75;    
+   }
+
+   button{
+   background: #331a00;
+   padding:20px;    
+   font-size: 2em;
+   border: 2px solid #331a00;    
+   border-radius: 10px;
+   color: #eef3b6;
+   cursor: pointer;    
+   }
+   
+   h1{
+   font-size: 3em;    
+   font-family: 'Rubik', sans-serif;
+   color:#ae5a41; 
+   }
+  label{
+  display: block;
+  margin-bottom: 15px;
+  margin-top: 15px;
+  font-size: 2em;
+  color: #282b10;
+  
+  }
+  .button_container{
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+
+   button:hover{
+   color: black;
+       
+   }
+   #zip{
+   width:70%;
+   height: 30px;
+   border-radius: 10px;
+   background-color: #eef3b6;
+   }
+   .myInput{
+   width: 70%;
+   border-radius: 10px;
+   background-color: #eef3b6;
+   }
+   .title{
+   font-size: 2em;
+   color: #282b10;
+   visibility: hidden;
+   }
+   .entryHolder div{
+   font-size: 14px;
+   color: #282b10;
+  }
+  h3{
+    color:#ae5a41;
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px; 
+
+  }
